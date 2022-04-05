@@ -1,0 +1,47 @@
+
+*{
+    background-color: azure;
+    text-align: center;
+    justify-content: center;
+}
+hr{
+    background-color: darkblue;
+    height: 2px;
+    margin: 2px;
+}
+h3{
+margin-left: 2%;
+}
+input{
+    margin-left: 2%;
+    border-left: 6px solid blue;
+    border-radius: .4rem;
+    width: 200px;
+    height: 30px;
+    background-color: aquamarine;
+    
+}
+button {
+    
+    background-color: grey;
+    width:fit-content;
+    height: auto;
+    margin-left: 1%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+
+}
+
+textarea
+{
+    padding-top: 10px;
+    border-left: 6px solid blue;
+    text-align: center;
+    text-transform: uppercase;
+    border-radius: .4rem;
+    background-color: aquamarine;
+    width: 200px;
+    height: 30px;
+    margin-left: 2%;
+    margin-bottom: 3%;
+}
